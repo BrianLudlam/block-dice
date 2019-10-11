@@ -25,6 +25,7 @@ contract BlockShuffler {
         bytes32 shuffle,
         uint256 timestamp
     );
+
      */
     constructor() public {}
     
